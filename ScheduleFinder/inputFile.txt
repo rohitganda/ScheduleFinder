@@ -1,0 +1,28 @@
+Writing Fast Tests Against Enterprise Rails 60ming
+Overdoing it in Pyt5hon 45min
+Lua for the Masses 30min
+Ruby Errors from Mismatched Gem Versions 45min
+Common Ruby Errors 45min
+Rails for Python Developers lightning
+Communicating Over Distance 60min
+Accounting-Driven Development 45min
+Woah 30min
+Sit Down a;;nd Write 30min
+Pair Programming vs Noise 45min
+Rails Magic 60min
+Ruby on Rails: Why We Should Move On 60min
+Clojure Ate Scala (on my project) 45min
+Programming in the Boondocks of Seattle 30min
+Ruby vs. Clojure for Back-End Development 30min
+Ruby on Rails Legacy App Maintenance 60min
+A World Without HackerNews 30min
+User Interface CSS in Rails Apps 30min
+30minSit Down a;; nd Write42
+78lightning           
+C++ Legacy AppMassesfromRuby on Rails : Rails for PythonRailsEnterpriseWritingAgainst30minRails for Pythonin the Boondocks of SeattlefromSit Down a;; nd WriteTests 201           
+OverdoingDistanceRails MagicGem156min
+Ruby on Rails : FastAccounting - Driven Ruby vs.ClojureDistanceAccounting - Driven WoahProgrammingRuby on Rails : Ruby vs.Clojureit189lightning
+itPyt5honRuby vs.Clojure 184min           
+Ruby on Rails : 30minFastMaintenancefrom175lightning           
+for Back - End DevelopmentMaintenanceCool MismatchedDevelopment 45minTestsEnterpriseRubyRailsOverdoing 146
+ 81lightning           
